@@ -1,2 +1,2 @@
 # githubTest
-testonly
+test
